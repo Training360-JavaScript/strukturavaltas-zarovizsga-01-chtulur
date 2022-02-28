@@ -37,7 +37,7 @@ export class CarEditorComponent {
       ],
     ],
     year: ['', [Validators.required, Validators.pattern(/^[1-9]*$/)]],
-    price: ['', [Validators.required, Validators.pattern(/^[0-9]{3,4,5}$/)]],
+    price: ['', [Validators.required, Validators.pattern(/^[0-9]{3,5}$/)]],
     stock: [
       '',
       [Validators.required, Validators.pattern(/^(0?\d|[1-4]\d|50)$/)],
