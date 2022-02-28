@@ -1,7 +1,6 @@
-import { Car } from 'src/app/model/car';
 import { CarService } from 'src/app/service/car.service';
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { Component } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 import { FormBuilder, Validators } from '@angular/forms';
 import { switchMap, EMPTY } from 'rxjs';
 
@@ -16,8 +15,6 @@ export class CarEditorComponent {
     private formBuilder: FormBuilder,
     private activatedRoute: ActivatedRoute
   ) {}
-
-  isDelHidden: boolean = true;
 
   carForm = this.formBuilder.group({
     id: ['', [Validators.required]],
@@ -53,7 +50,6 @@ export class CarEditorComponent {
       .pipe(
         switchMap((params) => {
           if (params['id'] !== '0') {
-            this.isDelHidden = false;
             return this.carService.get(params['id']);
           } else {
             return EMPTY;
