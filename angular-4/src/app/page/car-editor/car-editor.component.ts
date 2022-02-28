@@ -13,7 +13,6 @@ import { switchMap, EMPTY } from 'rxjs';
 export class CarEditorComponent {
   constructor(
     private carService: CarService,
-    private router: Router,
     private formBuilder: FormBuilder,
     private activatedRoute: ActivatedRoute
   ) {}
@@ -44,7 +43,7 @@ export class CarEditorComponent {
     price: ['', [Validators.required, Validators.pattern(/^[0-9]{3,4,5}$/)]],
     stock: [
       '',
-      [Validators.required, Validators.pattern(/^(?:[1-9]|[1-4][0-9]|50)$/)],
+      [Validators.required, Validators.pattern(/^(0?\d|[1-4]\d|50)$/)],
     ],
     active: ['', [Validators.required]],
   });
