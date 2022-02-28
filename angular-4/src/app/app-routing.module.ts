@@ -1,3 +1,5 @@
+import { CarEditorComponent } from 'src/app/page/car-editor/car-editor.component';
+import { CarComponent } from 'src/app/page/car/car.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './page/home/home.component';
@@ -8,6 +10,14 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
+    path: 'car',
+    component: CarComponent,
+  },
+  {
+    path: 'car/edit/:id',
+    component: CarEditorComponent,
+  },
+  {
     path: '**',
     component: HomeComponent,
   },
@@ -15,6 +25,6 @@ const routes: Routes = [
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}

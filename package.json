@@ -30,7 +30,9 @@
     "testURL": "http://localhost"
   },
   "dependencies": {
+    "@angular/fire": "^7.2.1",
     "@babel/core": "^7.17.5",
-    "@types/node": "^17.0.21"
+    "@types/node": "^17.0.21",
+    "firebase": "^9.6.7"
   }
 }
