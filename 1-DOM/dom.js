@@ -1,0 +1,5 @@
+function manipulateDom() {
+    // 
+};
+
+export { manipulateDom };

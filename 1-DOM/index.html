@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="dom.css">
+</head>
+
+<body>
+    <h1>Einstein aranyköpései</h1>
+    <div class="quote">Minden tudományos elméletnek, 
+        eltekintve a matematikai formalizmustól, 
+        olyan egyszerűnek kell lennie, 
+        hogy még egy gyerek is megértse.
+    </div>
+    <div class="quote">
+        Véletlennek azt nevezzük, 
+        amikor a számításaink kudarcot vallanak.
+    </div>
+    <p class="quote">
+        Aki még sosem követett el hibát, 
+        valószínűleg még sosem próbált semmi új dolgot.
+    </p>
+    <script
+        src="dom.js"
+        type="module"
+    ></script>
+    <script type="module"> 
+        import { manipulateDom } from './dom.js';
+        manipulateDom();
+    </script>
+</body>
+
+</html>

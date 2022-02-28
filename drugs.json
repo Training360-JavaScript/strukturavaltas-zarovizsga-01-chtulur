@@ -1,0 +1,708 @@
+{
+    "drugs": [
+        {
+            "id": 1,
+            "name": "hydrocodone bitartrate, chlorpheniramine maleate, and pseudoephedrine hydrochloride",
+            "brand": "ZUTRIPRO",
+            "company": "Hawthorn Pharmaceuticals, Inc.",
+            "barcode": "799-55-3100",
+            "stock": 373
+        },
+        {
+            "id": 2,
+            "name": "triclosan",
+            "brand": "Body Wash",
+            "company": "Valu Merchandisers, Co",
+            "barcode": "356-22-9977",
+            "stock": 343
+        },
+        {
+            "id": 3,
+            "name": "Jute",
+            "brand": "Jute",
+            "company": "Nelco Laboratories, Inc.",
+            "barcode": "350-75-1426",
+            "stock": 96
+        },
+        {
+            "id": 4,
+            "name": "Triclosan",
+            "brand": "Ulta Pomegranate Lime Anti-Bacterial Deep Cleansing",
+            "company": "Ulta",
+            "barcode": "341-08-0106",
+            "stock": 325
+        }, {
+            "id": 5,
+            "name": "Sertraline Hydrochloride",
+            "brand": "Sertraline Hydrochloride",
+            "company": "Preferred Pharmaceuticals, Inc",
+            "barcode": "852-20-8923",
+            "stock": 157
+        }, {
+            "id": 6,
+            "name": "Sertraline Hydrochloride",
+            "brand": "Sertraline Hydrochloride",
+            "company": "Legacy Pharmaceutical Packaging",
+            "barcode": "223-55-8418",
+            "stock": 83
+        }, {
+            "id": 7,
+            "name": "Advanced Hand Sanitizing Wipes",
+            "brand": "Quik Wipes",
+            "company": "Cinogen Cosmetics Zhaoqing, LTD.",
+            "barcode": "435-87-2368",
+            "stock": 287
+        }, {
+            "id": 8,
+            "name": "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",
+            "brand": "Kids Disappearing Color SPF50 Broad Spectrum Suncreen Pink Strawberry Scented",
+            "company": "CVS Pharmacy",
+            "barcode": "839-21-7413",
+            "stock": 94
+        }, {
+            "id": 9,
+            "name": "CETIRIZINE HYDROCHLORIDE",
+            "brand": "CETIRIZINE HYDROCHLORIDE",
+            "company": "WOCKHARDT LLC.",
+            "barcode": "583-31-5522",
+            "stock": 216
+        }, {
+            "id": 10,
+            "name": "Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution",
+            "brand": "ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic)",
+            "company": "Fenwal, Inc.",
+            "barcode": "800-32-0931",
+            "stock": 333
+        }, {
+            "id": 11,
+            "name": "Esmolol Hydrochloride",
+            "brand": "Brevibloc",
+            "company": "Baxter Healthcare Corporation",
+            "barcode": "859-87-0341",
+            "stock": 319
+        }, {
+            "id": 12,
+            "name": "Docusate sodium",
+            "brand": "stool softener",
+            "company": "Safeway",
+            "barcode": "791-28-7573",
+            "stock": 469
+        }, {
+            "id": 13,
+            "name": "Homosalate, Octocrylene, Octisalate, Avobenzone",
+            "brand": "Neova Day Therapy",
+            "company": "PhotoMedex, Inc",
+            "barcode": "579-31-6955",
+            "stock": 321
+        }, {
+            "id": 14,
+            "name": "MARSDENIA CONDURANGO BARK",
+            "brand": "Nausea Vomiting",
+            "company": "Natural Health Supply",
+            "barcode": "309-55-5557",
+            "stock": 136
+        }, {
+            "id": 15,
+            "name": "Prenatal with Ferrous Fum and Folic Acid",
+            "brand": "Prenatal Vitamins Plus Low Iron",
+            "company": "Patrin Pharma, Inc.",
+            "barcode": "426-83-3237",
+            "stock": 266
+        }, {
+            "id": 16,
+            "name": "albuterol sulfate",
+            "brand": "VENTOLIN",
+            "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+            "barcode": "292-10-2391",
+            "stock": 494
+        }, {
+            "id": 17,
+            "name": "METHOTREXATE SODIUM",
+            "brand": "Methotrexate",
+            "company": "Hospira Worldwide, Inc.",
+            "barcode": "733-03-3331",
+            "stock": 313
+        }, {
+            "id": 18,
+            "name": "Aluminum Sesquichlorohydrate",
+            "brand": "ESIKA",
+            "company": "Ventura Corporation Ltd.",
+            "barcode": "307-73-7952",
+            "stock": 81
+        }, {
+            "id": 19,
+            "name": "Estazolam",
+            "brand": "Estazolam",
+            "company": "Golden State Medical Supply, Inc.",
+            "barcode": "291-49-1102",
+            "stock": 502
+        }, {
+            "id": 20,
+            "name": "Magesium Citrate",
+            "brand": "citroma",
+            "company": "Major Pharmaceuticals",
+            "barcode": "132-91-4720",
+            "stock": 246
+        }, {
+            "id": 21,
+            "name": "Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine Succinate",
+            "brand": "Vicks NyQuil",
+            "company": "The Procter & Gamble Manufacturing Company",
+            "barcode": "174-25-7565",
+            "stock": 237
+        }, {
+            "id": 22,
+            "name": "Mycophenolate Mofetil",
+            "brand": "Mycophenolate Mofetil",
+            "company": "Teva Pharmaceuticals USA Inc",
+            "barcode": "871-49-4885",
+            "stock": 91
+        }, {
+            "id": 23,
+            "name": "SIMVASTATIN",
+            "brand": "SIMVASTATIN",
+            "company": "St Marys Medical Park Pharmacy",
+            "barcode": "154-37-2234",
+            "stock": 56
+        }, {
+            "id": 24,
+            "name": "tenofovir disoproxil fumarate",
+            "brand": "Viread",
+            "company": "Cardinal Health",
+            "barcode": "247-96-5083",
+            "stock": 410
+        }, {
+            "id": 25,
+            "name": "OCTINOXATE and TITANIUM DIOXIDE",
+            "brand": "SHISEIDO RADIANT LIFTING FOUNDATION",
+            "company": "SHISEIDO AMERICA INC.",
+            "barcode": "648-90-6687",
+            "stock": 86
+        }, {
+            "id": 26,
+            "name": "ALDESLEUKIN - EVERLASTING EXTRACT - FOMITOPSIS PINICOLA FRUITING BODY - INTERFERON GAMMA-1B - MELATONIN - METENKEFALIN - REISHI - RICE - SEROTONIN - SOYBEAN - SUS SCROFA BLOOD - SUS SCROFA SMALL INTES",
+            "brand": "GUNA-VIRUS",
+            "company": "Guna spa",
+            "barcode": "858-55-0735",
+            "stock": 150
+        }, {
+            "id": 27,
+            "name": "Nicotine Polacrilex",
+            "brand": "Rugby Nicotine Polacrilex Gum, Coated Cinnamon Flavor",
+            "company": "Rugby Laboratories",
+            "barcode": "267-97-2869",
+            "stock": 476
+        }, {
+            "id": 28,
+            "name": "norethindrone and ethinyl estradiol, and ferrous fumarate",
+            "brand": "FEMCON Fe",
+            "company": "Physicians Total Care, Inc.",
+            "barcode": "371-08-8398",
+            "stock": 78
+        }, {
+            "id": 29,
+            "name": "Sodium Monofluorophosphate",
+            "brand": "Colgate Cavity Protection",
+            "company": "Colgate Oral Pharmaceuticals, Inc.",
+            "barcode": "494-24-8179",
+            "stock": 316
+        }, {
+            "id": 30,
+            "name": "CHLOROXYLENOL",
+            "brand": "Clear Bac",
+            "company": "Wayne Concept Manufacturing Co Inc",
+            "barcode": "463-80-3795",
+            "stock": 352
+        }, {
+            "id": 31,
+            "name": "diphenhydramine hydrochloride",
+            "brand": "Itch Relief",
+            "company": "Cintas First Aid & Safety",
+            "barcode": "823-07-6127",
+            "stock": 168
+        }, {
+            "id": 32,
+            "name": "Tolnaftate",
+            "brand": "Tolnaftate Antifungal",
+            "company": "Taro Pharmaceuticals U.S.A., Inc.",
+            "barcode": "826-61-9851",
+            "stock": 363
+        }, {
+            "id": 33,
+            "name": "Hydroquinone",
+            "brand": "Glytone Clarifying SunVanish with Sunscreen",
+            "company": "Genesis Pharmaceutical, Inc.",
+            "barcode": "702-42-0456",
+            "stock": 189
+        }, {
+            "id": 34,
+            "name": "SALICYLIC ACID",
+            "brand": "Oily SK Specific Solutions",
+            "company": "LABORATORIOS DE COSMETICA SCIENTIFICA ATACHE",
+            "barcode": "708-92-0306",
+            "stock": 306
+        }, {
+            "id": 35,
+            "name": "rOPINIRole",
+            "brand": "Ropinirole",
+            "company": "Roxane Laboratories, Inc",
+            "barcode": "817-67-3417",
+            "stock": 79
+        }, {
+            "id": 36,
+            "name": "PRAMOXINE HYDROCHLORIDE",
+            "brand": "CVS Fragrance Free Anti-Itch",
+            "company": "RITE AID CORPORATION",
+            "barcode": "741-07-7437",
+            "stock": 353
+        }, {
+            "id": 37,
+            "name": "Benzalkonium Chloride",
+            "brand": "WhiskCare 357",
+            "company": "Whisk Products, Inc.",
+            "barcode": "745-92-1482",
+            "stock": 454
+        }, {
+            "id": 38,
+            "name": "SALICYLIC ACID",
+            "brand": "Asepxia",
+            "company": "Televisa Consumer Products USA",
+            "barcode": "355-87-4636",
+            "stock": 136
+        }, {
+            "id": 39,
+            "name": "INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A VIRUS A/TEXAS/50/2012 X-223A (H3N2) ANTIGEN (FORMALDEHYDE INACTIVATED), and INFLUENZA B VIRUS B/MASSACHUSETTS/2/2012 BX-51B ANTIGEN (FORMALDEHYDE INACTIVATED)",
+            "brand": "FLUZONE",
+            "company": "Sanofi Pasteur Inc.",
+            "barcode": "457-45-2198",
+            "stock": 212
+        }, {
+            "id": 40,
+            "name": "Aspirin",
+            "brand": "Fasprin",
+            "company": "Nobel Laboratories, LLC",
+            "barcode": "799-80-6480",
+            "stock": 441
+        }, {
+            "id": 41,
+            "name": "Aspirin",
+            "brand": "Enteric Coated Aspirin",
+            "company": "GREAT LAKES WHOLESALE, MARKETING, & SALES, INC.",
+            "barcode": "777-87-4042",
+            "stock": 356
+        }, {
+            "id": 42,
+            "name": "Sodium Fluoride",
+            "brand": "Ionite APF",
+            "company": "Dharma Research, inc.",
+            "barcode": "150-60-7337",
+            "stock": 159
+        }, {
+            "id": 43,
+            "name": "OAT VALERIAN ROOT OYSTER SHELL CALCIUM CARBONATE, CRUDE PHOSPHORUS SULFUR",
+            "brand": "Avena Valeriana Nerve Relief",
+            "company": "Uriel Pharmacy Inc",
+            "barcode": "213-93-6740",
+            "stock": 211
+        }, {
+            "id": 44,
+            "name": "verapamil hydrochloride",
+            "brand": "verapamil hydrochloride",
+            "company": "State of Florida DOH Central Pharmacy",
+            "barcode": "601-44-7673",
+            "stock": 157
+        }, {
+            "id": 45,
+            "name": "Myosotis Arvensis, Scrophularia Nodosa, Teucrium Scorodonia, Veronica Officinalis, Equisetum Arvense, Fumaria Officinalis, Geranium Robertianum, Nasturtium Aquaticum",
+            "brand": "Pre Dental Visit",
+            "company": "Deseret Biologicals, Inc.",
+            "barcode": "644-55-1407",
+            "stock": 405
+        }, {
+            "id": 46,
+            "name": "meloxicam",
+            "brand": "meloxicam",
+            "company": "PD-Rx Pharmaceuticals, Inc.",
+            "barcode": "103-41-2201",
+            "stock": 453
+        }, {
+            "id": 47,
+            "name": "Pramipexole Dihydrochloride",
+            "brand": "Pramipexole Dihydrochloride",
+            "company": "Breckenridge Pharmaceutical, Inc.",
+            "barcode": "232-67-6694",
+            "stock": 457
+        }, {
+            "id": 48,
+            "name": "Acetaminophen",
+            "brand": "dg health pain reliever",
+            "company": "Dolgencorp, LLC",
+            "barcode": "743-40-4354",
+            "stock": 135
+        }, {
+            "id": 49,
+            "name": "Fexofenadine",
+            "brand": "Fexofenadine",
+            "company": "Wockhardt USA LLC.",
+            "barcode": "595-84-9891",
+            "stock": 123
+        }, {
+            "id": 50,
+            "name": "Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl",
+            "brand": "sunmark Cold",
+            "company": "McKesson",
+            "barcode": "559-22-2901",
+            "stock": 225
+        }, {
+            "id": 51,
+            "name": "Oxygen",
+            "brand": "Oxygen",
+            "company": "Anaconda Oxygen Service",
+            "barcode": "798-59-3878",
+            "stock": 503
+        }, {
+            "id": 52,
+            "name": "chlorpheniramine maleate and dextromethorphan hbr",
+            "brand": "Cough and Cold HBP",
+            "company": "Family Dollar",
+            "barcode": "356-38-3295",
+            "stock": 448
+        }, {
+            "id": 53,
+            "name": "lorazepam",
+            "brand": "Ativan",
+            "company": "Valeant Pharmaceuticals North America LLC",
+            "barcode": "568-36-2112",
+            "stock": 224
+        }, {
+            "id": 54,
+            "name": "Methyl Salicylate Mentol Camphor Capsaicin",
+            "brand": "Pain ReliefRoll On",
+            "company": "Creations Garden Natural Products, Inc.",
+            "barcode": "803-78-6198",
+            "stock": 172
+        }, {
+            "id": 55,
+            "name": "Burweed Marsh Elder",
+            "brand": "Burweed Marsh Elder",
+            "company": "Nelco Laboratories, Inc.",
+            "barcode": "868-47-6938",
+            "stock": 87
+        }, {
+            "id": 56,
+            "name": "ALCOHOL",
+            "brand": "Fast",
+            "company": "ABC Compounding Co., Inc.",
+            "barcode": "199-83-9859",
+            "stock": 109
+        }, {
+            "id": 57,
+            "name": "TITANIUM DIOXIDE and ZINC OXIDE",
+            "brand": "ETUDE HOUSE Precious Mineral BB Bright Fit",
+            "company": "ETUDE HOUSE",
+            "barcode": "439-69-9817",
+            "stock": 481
+        }, {
+            "id": 58,
+            "name": "East Sycamore",
+            "brand": "East Sycamore",
+            "company": "Nelco Laboratories, Inc.",
+            "barcode": "162-11-3445",
+            "stock": 375
+        }, {
+            "id": 59,
+            "name": "Avobenzone, Ensulizole, Octinoxate, and Oxybenzone",
+            "brand": "LBEL REGRESSION JOUR",
+            "company": "Ventura International Ltd.",
+            "barcode": "746-06-6522",
+            "stock": 24
+        }, {
+            "id": 60,
+            "name": "Ibuprofen",
+            "brand": "Ibuprofen",
+            "company": "Best Choice (Valu Merchandisers Company)",
+            "barcode": "637-55-6713",
+            "stock": 406
+        }, {
+            "id": 61,
+            "name": "Chestnut bud",
+            "brand": "Bio Chestnut Bud",
+            "company": "Apotheca Company",
+            "barcode": "193-24-8510",
+            "stock": 115
+        }, {
+            "id": 62,
+            "name": "Furosemide",
+            "brand": "Furosemide",
+            "company": "PD-Rx Pharmaceuticals, Inc.",
+            "barcode": "146-03-4436",
+            "stock": 149
+        }, {
+            "id": 63,
+            "name": "Cefaclor",
+            "brand": "Cefaclor",
+            "company": "Physicians Total Care, Inc.",
+            "barcode": "425-57-6312",
+            "stock": 416
+        }, {
+            "id": 64,
+            "name": "Alprazolam",
+            "brand": "Alprazolam",
+            "company": "Actavis Elizabeth LLC",
+            "barcode": "645-71-4216",
+            "stock": 28
+        }, {
+            "id": 65,
+            "name": "Oxygen",
+            "brand": "Oxygen",
+            "company": "Fleming County Hospital Home Medical Equipment",
+            "barcode": "891-53-7880",
+            "stock": 333
+        }, {
+            "id": 66,
+            "name": "chlorthalidone",
+            "brand": "Chlorthalidone",
+            "company": "PD-Rx Pharmaceuticals, Inc.",
+            "barcode": "446-30-1536",
+            "stock": 506
+        }, {
+            "id": 67,
+            "name": "Loratadine",
+            "brand": "Loratadine ODT",
+            "company": "Meijer Distribution, Inc.",
+            "barcode": "476-57-6968",
+            "stock": 256
+        }, {
+            "id": 68,
+            "name": "Titanium Dioxide and Zinc oxide",
+            "brand": "bareMinerals READY Touch Up Veil Broad Spectrum SPF 15",
+            "company": "Bare Escentuals Beauty Inc.",
+            "barcode": "808-14-3381",
+            "stock": 503
+        }, {
+            "id": 69,
+            "name": "ciprofloxacin hydrochloride",
+            "brand": "Ciprofloxacin",
+            "company": "Golden State Medical Supply, Inc.",
+            "barcode": "735-83-4111",
+            "stock": 413
+        }, {
+            "id": 70,
+            "name": "tapentadol hydrochloride",
+            "brand": "NUCYNTA",
+            "company": "Lake Erie Medical Surgical & Supply DBA Quality Care Products LLC",
+            "barcode": "503-09-3016",
+            "stock": 287
+        }, {
+            "id": 71,
+            "name": "Acetaminophen, Phenylephrine HCl",
+            "brand": "healthy accents sinus",
+            "company": "DZA Brands LLC",
+            "barcode": "143-65-7366",
+            "stock": 227
+        }, {
+            "id": 72,
+            "name": "calcium carbonate",
+            "brand": "TopCare Antacid Calcium",
+            "company": "Topco Associates LLC",
+            "barcode": "212-56-8235",
+            "stock": 198
+        }, {
+            "id": 73,
+            "name": "CAMPHOR, MENTHOL AND METHYL SALICYLATE",
+            "brand": "WHITE FLOWER ANALGESIC BALM FLORAL SCENTED",
+            "company": "JELMA PHILIPPINES INC",
+            "barcode": "859-53-6096",
+            "stock": 107
+        }, {
+            "id": 74,
+            "name": "TOBACCO LEAF",
+            "brand": "Motion Sickness 1",
+            "company": "Natural Health Supply",
+            "barcode": "258-79-6178",
+            "stock": 481
+        }, {
+            "id": 75,
+            "name": "ADO-TRASTUZUMAB EMTANSINE",
+            "brand": "KADCYLA",
+            "company": "Genentech, Inc.",
+            "barcode": "585-24-3600",
+            "stock": 368
+        }, {
+            "id": 76,
+            "name": "methimazole",
+            "brand": "Methimazole",
+            "company": "Par Pharmaceutical Inc",
+            "barcode": "366-71-3819",
+            "stock": 375
+        }, {
+            "id": 77,
+            "name": "White petrolatum",
+            "brand": "Creamy Petroleum",
+            "company": "Meijer Distribution, Inc",
+            "barcode": "345-96-5156",
+            "stock": 507
+        }, {
+            "id": 78,
+            "name": "TAZOBACTAM SODIUM and PIPERACILLIN SODIUM",
+            "brand": "Zosyn",
+            "company": "Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",
+            "barcode": "427-23-7021",
+            "stock": 109
+        }, {
+            "id": 79,
+            "name": "Carglumic Acid",
+            "brand": "Carbaglu",
+            "company": "Orphan Europe, SARL",
+            "barcode": "318-17-0700",
+            "stock": 385
+        }, {
+            "id": 80,
+            "name": "Benzocaine",
+            "brand": "Baby Teething Oral Pain Reliever",
+            "company": "Budpak Inc.",
+            "barcode": "638-73-5725",
+            "stock": 232
+        }, {
+            "id": 81,
+            "name": "Arnica, Bellis",
+            "brand": "PPH Prevention",
+            "company": "Home Sweet Homeopathics",
+            "barcode": "382-38-3345",
+            "stock": 201
+        }, {
+            "id": 82,
+            "name": "PREGABALIN",
+            "brand": "Lyrica",
+            "company": "Rebel Distributors Corp",
+            "barcode": "542-75-9891",
+            "stock": 483
+        }, {
+            "id": 83,
+            "name": "Hydrocortisone",
+            "brand": "Hydrocortisone Maximum Strength",
+            "company": "Walgreen Company",
+            "barcode": "220-46-8876",
+            "stock": 129
+        }, {
+            "id": 84,
+            "name": "nepafenac",
+            "brand": "ILEVRO",
+            "company": "Alcon Laboratories, Inc.",
+            "barcode": "258-34-7872",
+            "stock": 334
+        }, {
+            "id": 85,
+            "name": "Cefadroxil",
+            "brand": "Cefadroxil",
+            "company": "Aurobindo Pharma Limited",
+            "barcode": "180-38-3733",
+            "stock": 455
+        }, {
+            "id": 86,
+            "name": "Hyoscyamine Sulfate",
+            "brand": "Hyoscyamine Sulfate",
+            "company": "Clinical Solutions Wholesale",
+            "barcode": "130-63-5386",
+            "stock": 9
+        }, {
+            "id": 87,
+            "name": "Cephalexin",
+            "brand": "Cephalexin",
+            "company": "Aurobindo Pharma Limited",
+            "barcode": "553-45-6626",
+            "stock": 10
+        }, {
+            "id": 88,
+            "name": "Fusarium compactum",
+            "brand": "Fusarium compactum",
+            "company": "Nelco Laboratories, Inc.",
+            "barcode": "559-28-1813",
+            "stock": 350
+        }, {
+            "id": 89,
+            "name": "Triamterene and Hydrochlorothiazide",
+            "brand": "Triamterene and Hydrochlorothiazide",
+            "company": "Mylan Pharmaceuticals Inc.",
+            "barcode": "176-77-3608",
+            "stock": 270
+        }, {
+            "id": 90,
+            "name": "Triclosan",
+            "brand": "Golden Pear Antibacterial Foaming Hand Wash",
+            "company": "SJ Creations, Inc.",
+            "barcode": "819-15-0312",
+            "stock": 155
+        }, {
+            "id": 91,
+            "name": "Dicyclomine Hydrochloride",
+            "brand": "Dicyclomine Hydrochloride",
+            "company": "Clinical Solutions Wholesale",
+            "barcode": "238-36-6499",
+            "stock": 460
+        }, {
+            "id": 92,
+            "name": "Alcohol",
+            "brand": "Anti-Bacterial Hand",
+            "company": "Bath & Body Works, Inc.",
+            "barcode": "745-68-3230",
+            "stock": 460
+        }, {
+            "id": 93,
+            "name": "Natural Medicine",
+            "brand": "Mental Alertness for Seniors",
+            "company": "King Bio Inc.",
+            "barcode": "725-17-9050",
+            "stock": 203
+        }, {
+            "id": 94,
+            "name": "Oxycodone HCl Controlled-Release",
+            "brand": "Oxycodone HCl Controlled-Release",
+            "company": "Ranbaxy Pharmaceuticals Inc",
+            "barcode": "358-68-6904",
+            "stock": 105
+        }, {
+            "id": 95,
+            "name": "risperidone",
+            "brand": "Risperidone",
+            "company": "State of Florida DOH Central Pharmacy",
+            "barcode": "556-47-0412",
+            "stock": 396
+        }, {
+            "id": 96,
+            "name": "Nystatin",
+            "brand": "Nystatin",
+            "company": "Preferred Pharmaceuticals, Inc.",
+            "barcode": "800-70-9200",
+            "stock": 104
+        }, {
+            "id": 97,
+            "name": "Hydrocortisone",
+            "brand": "sunmark",
+            "company": "McKesson",
+            "barcode": "237-78-1010",
+            "stock": 67
+        }, {
+            "id": 98,
+            "name": "NICOTINE",
+            "brand": "EQUALINE NICOTINE TRANSDERMAL SYSTEM",
+            "company": "Novartis Consumer Health",
+            "barcode": "544-23-2469",
+            "stock": 327
+        }, {
+            "id": 99,
+            "name": "OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",
+            "brand": "FACE IT RADIANCE POWDER PACT SPF25 MOISTURE VEIL NB23",
+            "company": "THEFACESHOP CO., LTD",
+            "barcode": "248-64-9989",
+            "stock": 403
+        }, {
+            "id": 100,
+            "name": "Symphoricarpus racemosus,",
+            "brand": "Morning Sickness",
+            "company": "Liddell Laboratories, Inc.",
+            "barcode": "271-64-8031",
+            "stock": 437
+        }
+    ]
+}

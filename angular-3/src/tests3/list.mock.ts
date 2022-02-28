@@ -1,0 +1,3 @@
+export default [
+  { "id": 1, "material": "Plastic", "trade": "Carpenter", "cost_code": "1-550 - Vehicular Access and Parking", "price": 2015, "active": true }, { "id": 2, "material": "Granite", "trade": "Pipelayer", "cost_code": "8-600 - Skylights", "price": 847, "active": false }, { "id": 3, "material": "Wood", "trade": "Landscaper", "cost_code": "1-523 - Sanitary Facilities", "price": 1447, "active": false }, { "id": 4, "material": "Rubber", "trade": "Sheet Metal Worker", "cost_code": "1-903 - Hazardous Materials Abatement", "price": 1974, "active": true }, { "id": 5, "material": "Aluminum", "trade": "HVAC", "cost_code": "11-130 - Audio-Visual Equipment", "price": 897, "active": true },
+];

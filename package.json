@@ -1,0 +1,36 @@
+{
+  "name": "zarovizsga",
+  "version": "1.0.0",
+  "description": "Struktúraváltás 2.0 - Frontendes záróvizsga",
+  "main": "babel.config.js",
+  "scripts": {
+    "test-watch": "jest --watch",
+    "test:11": "jest --env jsdom -- main.test.spec.js",
+    "test:12": "jest --env jsdom -- dom.test.spec.js",
+    "test:21": "cd ./angular-2/drugstore && npm i && npm run test:21",
+    "test:22": "cd ./angular-2/drugstore && npm run test:22",
+    "test:23": "cd ./angular-2/drugstore && npm run test:23",
+    "test:03": "cd ./angular-3 && npm i && npm run test:03",
+    "test:04": "cd ./angular-4 && npm i && npm run test:04",
+    "test": "npm run test:11 && npm run test:12 && npm run test:21 && npm run test:22 && npm run test:23 && npm run test:03 && npm run test:04"
+  },
+  "author": "cherryApp",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "@testing-library/jest-dom": "^5.16.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-1": "^6.24.1",
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.5",
+    "@types/node": "^17.0.21"
+  }
+}
