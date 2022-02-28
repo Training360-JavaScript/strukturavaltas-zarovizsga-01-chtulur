@@ -1,19 +1,25 @@
 // 1/1. Használd a már létrehozott colors modult!
+@use "../assets/modules/colors" as c;
+@import "../assets/modules/mixins";
 
 // 1/2. Használd a már létrehozott mixins modult!
-
 
 .container {
   align-items: center;
   // 2. Az animált tacskó hátterére állítsd be
   // a modul segítségével a következő színt: #d4e6ff
-
+  background-color: c.$background-basic;
   display: flex;
   justify-content: center;
   margin: 0;
 }
 
 .ball {
+  .ball-decoration.ball-sound {
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+  }
   // 3. Válaszd ki a ball-decoration és a
   // ball-sound osztályú elemeket.
   // Nesting-et használj!
@@ -28,14 +34,14 @@
   height: 25rem;
   max-height: 80vh;
   max-width: 80vw;
+  @include for-phone-only() {
+    background-color: c.$background-phone;
+    padding: 50px;
+  }
 
   // 4. A mixins modulban találsz egy mixint,
   // amely mobilnézetre állít be új dizájnt.
   // Használd itt ezt a mixint.
-  /*{
-    background-color: $background-phone;
-    padding: 50px;
-  }*/
 }
 
 .yellow {
@@ -43,11 +49,10 @@
   display: flex;
   justify-content: center;
   width: 100%;
-
-  // 5. Írd meg a mixins modulban a
-  // hátteret átváltoztató mixint,
-  // és használd itt a colors modul sárga színével.
-
+  @include new-background(c.$yellow) // 5. Írd meg a mixins modulban a
+    // hátteret átváltoztató mixint,
+    // és használd itt a colors modul sárga színével.
+;
 }
 
 .ear,
